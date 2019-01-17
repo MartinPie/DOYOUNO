@@ -14,6 +14,13 @@ For example, if we try to find the 5-letter string where hash( this_string ) is 
 
 
 
+
+
+
+
+
+
+
 J'ai raisonné de la facon suivante : 
 
 Si le mot x n'avait qu'une lettre a1, alors l'opération pour trouver a1 serait :
